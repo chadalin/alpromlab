@@ -1,0 +1,22 @@
+счсчс
+<div class="footer-bottom"> 
+            <div class="container">
+                <div class="powerby">
+				   <?php bloginfo('name'); ?> -  Copyright © 2020 
+
+promalplab.ru Все права защищены<?php// esc_html_e('Theme by Grace Themes','shifters-lite'); 
+
+?>  
+                </div>                        	
+                <div class="design-by">
+                   <?php wp_nav_menu( array( 'theme_location' => 'footer') ); ?>		
+
+		  
+                </div>
+                <div class="clear"></div>
+                                
+             </div><!--end .container-->             
+        </div><!--end .footer-bottom-->  
+
+<a href="tel:+74957654743">++7 (495) 765-47-43</a>
+<a href="tel:+74957654743">+7 (495) 765-47-43</a>
