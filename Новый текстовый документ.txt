@@ -10,7 +10,7 @@ promalplab.ru Все права защищены<?php// esc_html_e('Theme by Grace Themes','shif
                 </div>                        	
                 <div class="design-by">
                    <?php wp_nav_menu( array( 'theme_location' => 'footer') ); ?>		
-
+                   <?php echo 'dedede';?>
 		  
                 </div>
                 <div class="clear"></div>
